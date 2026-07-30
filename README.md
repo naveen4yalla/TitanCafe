@@ -46,4 +46,4 @@ Then visit <http://localhost:8000/home.html> in your browser.
 
 ## Screenshots
 
-_Screenshots coming soon._
+![Titan Café home page](docs/screenshots/home.png)
